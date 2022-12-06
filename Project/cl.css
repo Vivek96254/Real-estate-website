@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  }
+
+p{
+    text-align: center;
+}
+
+.d {
+    border-radius: 15px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+
+.f{
+    border-radius: 25px;
+    width: 200px;
+    height: 150px;
+    border: 2px solid #73AD21;
+}
+
+form{
+    border: 2px solid #73AD21;
+    width: 500px;
+}
